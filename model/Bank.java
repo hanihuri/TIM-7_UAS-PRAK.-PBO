@@ -1,5 +1,11 @@
 package model;
 
+/**
+ * Implementasi metode pembayaran melalui Bank Transfer.
+ * Saat dipilih, transaksi akan masuk ke status "MENUNGGU_KONFIRMASI_ADMIN".
+ */
+
+
 public class Bank implements Pembayaran {
 
     @Override
@@ -12,3 +18,4 @@ public class Bank implements Pembayaran {
         return "Bank Transfer";
     }
 }
+
