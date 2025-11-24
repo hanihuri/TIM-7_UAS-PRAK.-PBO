@@ -1,3 +1,8 @@
+/**
+ * CustomerDriver adalah kelas demo sederhana yang digunakan untuk
+ * mensimulasikan alur transaksi dari sisi Customer sesuai class diagram wajib.
+ */
+
 package driver;
 
 import model.*;
@@ -10,7 +15,7 @@ public class CustomerDriver {
         // 1. Buat customer
         Customer c = new Customer("C001", "keke", "123");
 
-        // 2. Buat daftar barang dummy
+        // 2. Buat daftar barang
         Barang apel = new Barang("Apel", 10000, 10, "apel.png");
         Barang jeruk = new Barang("Jeruk", 8000, 15, "jeruk.png");
 
@@ -45,4 +50,5 @@ public class CustomerDriver {
 
         System.out.println("Keranjang setelah checkout: " + c.getKeranjang().getListBarang().size() + " item");
     }
+
 }
