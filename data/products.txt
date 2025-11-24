@@ -1,0 +1,9 @@
+1,Apple,15000.0,Fresh red apples,91
+2,Orange,12000.0,Sweet oranges,96
+3,Banana,8000.0,Yellow bananas,119
+4,Kiwi,20000.0,Green kiwi fruit,49
+5,Strawberry,25000.0,Fresh strawberries,68
+6,Grape,18000.0,Purple grapes,65
+7,Watermelon,30000.0,Big watermelon,48
+8,Cherry,35000.0,Sweet cherries,59
+9,kelengkeng,10000.0,-,20
