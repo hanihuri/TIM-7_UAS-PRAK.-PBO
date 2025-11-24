@@ -1,6 +1,11 @@
 import view.LoginFrame;
 import javax.swing.*;
 
+/**
+ * Program utama untuk menjalankan aplikasi GUI.
+ */
+
+
 public class Main {
     public static void main(String[] args) {
         try {
