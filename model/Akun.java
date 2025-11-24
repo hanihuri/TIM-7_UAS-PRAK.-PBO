@@ -1,5 +1,11 @@
 package model;
 
+/**
+ * Kelas Akun berfungsi sebagai kelas dasar untuk Admin dan Customer.
+ * Menyimpan data umum seperti id, username, dan password,
+ * serta menyediakan fungsi login sederhana.
+ */
+
 public class Akun {
     protected String id;
     protected String username;
