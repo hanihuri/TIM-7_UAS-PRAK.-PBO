@@ -1,14 +1,14 @@
+package driver;
+
+import java.util.ArrayList;
+import model.*;
+
 /**
  * Kelas ShopData berfungsi sebagai penyimpan data statis
  * untuk seluruh objek utama dalam sistem, seperti:
  * daftar barang, daftar transaksi, daftar customer,
  * serta admin default.
  */
-
-package driver;
-
-import java.util.ArrayList;
-import model.*;
 
 public class ShopData {
 
@@ -41,4 +41,5 @@ public class ShopData {
         return null;
     }
 }
+
 
