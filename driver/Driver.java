@@ -1,3 +1,9 @@
+/**
+ * Kelas Driver adalah kelas abstrak yang menjadi induk
+ * bagi semua driver (AdminDriver dan CustomerDriver) 
+ * pada sistem.
+ */
+
 package driver;
 
 import java.util.Scanner;
