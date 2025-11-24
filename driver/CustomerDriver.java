@@ -1,12 +1,12 @@
-/**
- * CustomerDriver adalah kelas demo sederhana yang digunakan untuk
- * mensimulasikan alur transaksi dari sisi Customer sesuai class diagram wajib.
- */
-
 package driver;
 
 import model.*;
 import java.util.ArrayList;
+
+/**
+ * CustomerDriver adalah kelas demo sederhana yang digunakan untuk
+ * mensimulasikan alur transaksi dari sisi Customer sesuai class diagram wajib.
+ */
 
 public class CustomerDriver {
 
@@ -52,3 +52,4 @@ public class CustomerDriver {
     }
 
 }
+
