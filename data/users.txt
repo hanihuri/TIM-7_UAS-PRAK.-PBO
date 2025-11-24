@@ -1,0 +1,5 @@
+admin,admin123,admin@fruitstore.com,08123456789,true
+user,user123,user@email.com,08987654321,false
+fayla,fayla123,fayla@gmail.com,081269517777,false
+putroe,putroe123,putroe@gemail.com,081269516666,false
+hani,hani111,hani@email,081269517777,false
