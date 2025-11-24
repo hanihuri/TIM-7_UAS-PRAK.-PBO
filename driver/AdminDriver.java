@@ -1,3 +1,12 @@
+/**
+ * Kelas AdminDriver digunakan untuk menjalankan seluruh fitur yang dimiliki Admin,
+ * seperti melihat stok barang, mengedit data barang, menghapus barang, melihat transaksi,
+ * dan menerima transaksi. 
+ *
+ * Kelas ini merupakan turunan dari kelas Driver dan berperan sebagai pengontrol (controller)
+ * untuk proses-proses yang hanya boleh dilakukan oleh Admin selama menjalankan aplikasi.
+ */
+
 package driver;
 
 import java.util.ArrayList;
@@ -184,3 +193,4 @@ public class AdminDriver extends Driver {
         }
     }
 }
+
